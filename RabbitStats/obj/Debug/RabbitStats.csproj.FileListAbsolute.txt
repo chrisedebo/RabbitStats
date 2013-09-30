@@ -1,0 +1,2 @@
+C:\Users\chris.nicel\AppData\Local\Temporary Projects\RabbitStats\bin\Debug\RabbitStats.exe.config
+C:\Users\chris.nicel\Documents\GitHub\RabbitStats\RabbitStats\bin\Debug\RabbitStats.exe.config
