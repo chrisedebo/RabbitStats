@@ -1,2 +1,11 @@
 C:\Users\chris.nicel\AppData\Local\Temporary Projects\RabbitStats\bin\Debug\RabbitStats.exe.config
 C:\Users\chris.nicel\Documents\GitHub\RabbitStats\RabbitStats\bin\Debug\RabbitStats.exe.config
+C:\Users\chris.nicel\Documents\GitHub\RabbitStats\RabbitStats\bin\Debug\RabbitStats.exe
+C:\Users\chris.nicel\Documents\GitHub\RabbitStats\RabbitStats\bin\Debug\RabbitStats.pdb
+C:\Users\chris.nicel\Documents\GitHub\RabbitStats\RabbitStats\bin\Debug\CommandLine.dll
+C:\Users\chris.nicel\Documents\GitHub\RabbitStats\RabbitStats\bin\Debug\Newtonsoft.Json.dll
+C:\Users\chris.nicel\Documents\GitHub\RabbitStats\RabbitStats\bin\Debug\CommandLine.xml
+C:\Users\chris.nicel\Documents\GitHub\RabbitStats\RabbitStats\bin\Debug\Newtonsoft.Json.xml
+C:\Users\chris.nicel\Documents\GitHub\RabbitStats\RabbitStats\obj\Debug\RabbitStats.exe
+C:\Users\chris.nicel\Documents\GitHub\RabbitStats\RabbitStats\obj\Debug\RabbitStats.pdb
+C:\Users\chris.nicel\Documents\GitHub\RabbitStats\RabbitStats\obj\Debug\RabbitStats.csprojResolveAssemblyReference.cache
